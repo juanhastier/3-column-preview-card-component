@@ -51,6 +51,7 @@ I learned how to include Google Fonts and use them in my projects
 
 ```html
 <head>
+  ...
  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
